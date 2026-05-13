@@ -1,0 +1,168 @@
+Phone Manager Privacy Notice
+
+
+Last updated: December 1, 2025
+Effective date: December 1, 2025
+
+Thank you for using Phone Manager. Phone Manager (the "Service" or the "App") is an app developed and operated by Realme Chongqing Mobile Telecommunications Corp., Ltd. (registered at No. 178 Yulong Avenue, Yufengshan, Yubei District, Chongqing, China) and its affiliates (collectively, "we", "us", or "our") that provides users ("you" or "your") with storage cleanup, virus & risk scanning, app security control (known as "Block malicious activities", "App Security Center", or "Block suspicious app activities" on certain models), push notifications, and personalized content recommendations. The features available to you may vary depending on the type of device you're using, such as a phone or tablet. You can check the actual features supported on your device in the Phone Manager app.
+
+
+We attach great importance to the protection of your personal information and privacy. We fully understand the importance of personal information to you. We have developed this Phone Manager Privacy Notice (this "Privacy Notice") in accordance with applicable laws, regulations, and state standards.
+During your use of our accounts, websites, mobile apps, or other products and services, we may collect, store, use, process, transmit, share, disclose, or delete (collectively, "process") your personal information. In this Privacy Notice, "personal information" or "personal data" refers to all information that can be used alone or in combination with other information to identify a natural person.
+This Privacy Notice explains how we process your personal information, the categories of your personal information we process during your use of our services, the purposes and methods of processing such information, your rights to such information, the methods by which you can exercise such rights, and the security measures we take to protect your personal information.
+Before using the App, please carefully read this Privacy Notice, with special attention to the terms highlighted in bold, to understand our practices regarding the processing and protection of your personal information. If you do not agree to the terms of this Privacy Notice, you can close or exit the App by tapping "Disagree", and we will not be able to provide you with the related Phone Manager services. By tapping "Agree" and launching Phone Manager, you acknowledge that you fully understand our collection and use of information and your rights as described below.
+
+1. How We Collect and Use Your Personal Information
+
+The information we collect depends on the context of your interactions with us and the choices you make, including your privacy settings and the features or services you use.
+Please note that if you provide other people's personal information to us, you must ensure that you have obtained their authorization (and separately obtain their consent in the event of a special scenario).
+
+The features or services provided by the App may vary according to the operating system or App version, as well as the apps installed or downloaded. Therefore, the features or services actually provided by the App, the processing of relevant personal information, and the required app permissions are subject to the device you use.
+
+You are not obliged to provide personal information to us. However, if you choose not to provide the personal information necessary for the App to provide the required services, we may not be able to provide you with such services, nor will we be able to respond to or deal with any problems you may encounter.
+We collect personal information to operate more efficiently and provide you with an optimal user experience. The following describes in detail the categories of personal information we collect as well as how and why we collect and use such information.
+We collect information about you in three primary ways:
+● Personal information you provide to us directly;
+● Information we collect during your use of the App; and/or
+● Personal information obtained about you from third parties.
+To clear up all your privacy concerns and stay transparent about our processing of personal information,please note that if it is explicitly stated below that relevant information about you is only kept locally, then that information is collected and processed only on your device and will not be uploaded to our servers, and such information is not bound by this Privacy Notice.
+
+To provide you with the features or services you request or to comply with laws and regulations, we will process the necessary information relating to you. This Privacy Notice specifically points out what personal information is necessary for you to use the features and services of the App. Please pay special attention to such information.
+
+1.1 How We Collect Personal Data and What Types of Personal Data We Collect
+
+1.1.1 Personal information directly provided by you to us
+
+You may provide personal data to us directly, in which case you are generally free to choose which personal data you want to provide to us. However, if some personal data is required for the performance of our Services and you choose not to provide that personal data, we may not be able to provide you with the Services you requested.
+
+1.1.2 Personal information automatically collected from your use of our services
+
+We may automatically collect information about your use of our Services. The personal data we may collect includes the following:
+
+A. Storage cleanup
+By using the storage cleanup feature, you can quickly remove unneeded and junk files from your device to free up your device's storage and keep your device running smoothly. When you use the storage cleanup feature, Phone Manager will collect your list of installed apps, ColorOS version, videos, documents, and audio to scan for unneeded videos, documents, and audio and detect apps that you may want to restore, uninstall, or compress. The information above will only be processed on your device and will not be uploaded to our server.
+
+B. Virus & risk scanning
+The virus & risk scanning feature is only available in certain countries or regions.The virus & risk scanning feature includes cloud-based antivirus and local antivirus functions. By using the virus & risk scanning feature, you can understand the health of your device, helping you promptly discover and fix your device's security issues. When you use the cloud-based antivirus feature, Phone Manager will access your device identifier (OUID), your list of installed apps, and the type of the connected network to provide virus scanning services. It will upload your device identifier (OUID) and the list of installed apps to our servers. When you use the virus scanning feature, it will be provided by a third-party service provider. The third-party service provider may collect your device information (Android ID, device model, brand, and Android version), your list of installed apps, the App version you use, the operating system version of your device, your device identifier (UUID), the virus scanning engine version, virus scan results, the type of the connected network, your carrier information and language and region settings of your device, to scan for malicious apps, manage upgrades, and determine and identify activities and threats in the cloud.
+
+C. App security control (known as malicious activity blocking or App Security Center on certain devices)
+App security control (known as malicious activity blocking or App Security Center on certain devices) can help you identify baiting attempts and fraudulent ads introduced by third-party app pop-ups and prevent malicious background keep-alive activities from shortening your device's battery life. When you use the app security control feature (known as malicious activity blocking or App Security Center on certain devices), in order to analyze if any malicious apps have been installed and to collect and analyze malicious activity, Phone Manager will need to collect your list of installed apps, your device identifier (OUID), and device-related information (including: your region and language settings, device brand, device version, device model, system name, and the type of connected network).
+
+D. Push notifications
+When your device is in a high-risk state, the App will provide you with the following services through push notifications: emergency alerts when viruses are detected, storage cleanup reminders when the phone's memory is insufficient or when junk files can be removed, and notifications of items detected to require optimization, to help you promptly identify security issues on your device. When you turn on the push notifications feature or when push notification services are triggered by the launch of other apps, we may collect your app's basic information (RegisterId, appKey, appSecret, MCS app package name, app version number, and OPUSH SDK version number) in order to provide you with push notification services. To turn off these notifications, go to "Settings - Apps - App management", tap an app, and then tap "Manage notifications".
+
+E. Personalized services
+Our personalized services are only available in certain countries or regions. To provide you with personalized recommended services and show more relevant content for certain countries or regions, we may collect the following information: app package name, advertising ID (GAID), device identifier (OUID), device identifier (DUID), device information (region, language, brand, model, OS name, and network type), app usage data (such as screen time and frequency), IP address, system locale, installed app list, device usage information, and behavioral data (including browsing and taps). This information is needed to build your personalized profile and recommend content that may be of interest to you. You can manage personalized content for this app in "Settings - Privacy - Personalized services".
+
+1.1.3 Personal information obtained from third parties
+
+We may obtain personal information about you from third parties. For example, where permitted by law, we may, based on the services and features of the App, obtain data about you from public or commercial sources, including your activities on social networks you use, and we may combine it with other information received from you or relevant to you. In particular, if you interact with us through a social media website or third-party service, or if you sign in to the App with a third-party account to use our services, we may receive information from the third party, including your account ID, profile picture, the user ID associated with your social media account, and any other information that you allow to be shared with the third party.
+
+1.2 How We Use Your Personal Information
+
+We will use your personal information for the following purposes:
+(1) The storage cleanup feature enables you to quickly remove unneeded and junk files from your device to free up your device's storage.
+(2) The virus scanning feature helps you understand the health of your device, enabling you to promptly discover and fix your device's security issues.
+(3) App security control helps you analyze and resolve baiting attempts and fraudulent ads introduced by third-party app pop-ups and prevent malicious background keep-alive activities from shortening your device's battery life.
+(4) When your device is in a high-risk state, you will be notified through push notifications.
+(5) We provide more personalized content recommendations to deliver a more optimized product and service experience.
+
+We will strictly adhere to the purpose described in this Privacy Notice when we use your personal information. Your personal information will only be used for the purpose that has been identified, stated, and authorized by you at the time of collection. We will obtain your prior consent if we intend to use your personal information for any purpose not stated in this Privacy Notice or when personal information collected for a specific purpose is used for other purposes. Without your consent, we will not provide your personal information or behavioral data to any third party.
+
+2. How Long We Retain Your Personal Data
+
+We will retain your personal information for the minimum period needed to fulfill the purposes authorized by you unless laws otherwise specify or unless you separately authorize us to retain the personal information for a longer period. Where required by laws to extend the retention periods (for example, for tax and commercial law purposes), we will delete your personal information upon the expiration of the extended periods.
+After the expiration of the retention periods, we will delete or anonymize your personal information.
+When determining how long it is appropriate to retain your personal information, we will consider the amount, category, and sensitivity of your personal information we hold, the potential risks arising from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information, and the applicable laws.
+
+3. How We Disclose Your Personal Information
+
+Sometimes, we may provide your personal information to our wholly-owned or partially-controlled companies ("affiliates") as well as other third parties in partnership with us to provide you with the required services. Your personal information will not be shared with third parties for their own independent marketing purposes.
+
+3.1 Our Cooperation with Third-Party Service Providers
+
+Some of the features or services contained in the App are provided by third-party service providers. To provide you with the features or services you request, we need to share the necessary personal information about you with such third-party service providers. We will share your personal information only for legitimate, proper, necessary, specific, and explicit purposes, and we will only share the personal information necessary for the provision of the required services. Such third parties will have no right to use your personal information shared by us for any other purpose. We will sign a data protection agreement with each third party to clarify their responsibility and obligation to protect your personal information.
+Third-party name: Avast
+Feature or service provided: Virus scanning for apps/installation packages
+Shared personal information: Android ID, device model, device brand, Android version, your list of installed apps, the App version you use, the operating system version of your device, your device identifier (UUID), the virus scanning engine version, virus scan results, the type of the connected network, your carrier information, and language and region settings
+Privacy Notice: https://www.avast.com/privacy-policy 
+
+3.2 Third-Party Service Providers and Their Services
+
+Some of our features or services may contain links to third-party websites, products, and services. You can choose whether to access or accept the websites, products, and services offered by third parties.
+We have no control over third-party privacy and personal information protection policies as such third parties are not bound by this Privacy Notice.
+
+Before you are directed to such third-party websites, products, or services to access specific functional modules or services, please carefully read the privacy policies and related terms and conditions of the third-party website operators or service providers.
+
+4. How We Process Children's Personal Information
+
+We greatly value our obligation and responsibility for protecting the personal information of children. We strive to create a healthy cyber environment for them and make extra efforts to protect them. We treat anyone under the age of 18 (or a similar minimum age of full legal capacity defined in the jurisdiction concerned) as a child.
+Most of the features and services provided by the App are intended for adults, not for children. We do not provide services directly to children.
+Please note that, due to technical limitations and other objective factors, the App may not be able to actively identify the age of users.
+According to applicable laws and regulations, if you are a child, you must obtain the consent of your parent or another guardian before using the App, and be sure to carefully read this Privacy Notice together with them. If you are the guardian of a child, before assisting the child in using the App, you must carefully read both the Children's Privacy Statement (if any) and this Privacy Notice. Please note that children are not allowed to use the App without the consent of their parents or guardians.
+We do not actively collect, store, use, transfer, or disclose children's personal information, let alone use their personal information for marketing purposes. If you are a child, or if you are a parent or guardian of a child, or if you otherwise find that any information we processed may contain the personal information of a child, please contact us as set forth in this Privacy Notice. We will do everything we can to delete the relevant data as soon as possible.
+
+5. How Your Personal Information Is Transferred Globally
+
+As a company operating globally, we provide products and services through resources and servers around the world. For the purpose of ensuring the high quality of our services (such as ensuring a high processing speed) and subject to local data protection laws, we will store your personal data based on the region or country where your phone is purchased or configured. We have established data centers in France, Singapore, India, and Indonesia. This means that
+your personal information may be transferred to or accessed from a jurisdiction outside the country or region where you use our products or services.
+
+Please note that different countries or regions offer different levels of data protection. This means that your personal data could be stored in a country that offers a level of protection that may, in certain instances, be less protective of your personal data than the country or region in which you are located. You understand that there are different risks under different data protection laws. We will take measures to ensure that the data collected by us is processed in accordance with this Privacy Notice and applicable laws, and that your personal information is as equally protected as in the country or region where you use the relevant product or service. For example, we might ask your permission to transfer your personal data across borders, and we will implement adequate security measures (such as encryption and de-identification where feasible) and sign the necessary data transmission/sharing agreements with the recipients of your personal data prior to the transfer taking place. We will also specifically ensure that we comply with laws that require us to store data locally within a specific country or region.
+
+6. How to Exercise Your Data Subject Rights
+
+We respect your rights to your personal information, and we do our best to protect your rights. We provide a variety of secure and convenient ways for you to configure privacy settings and manage personal information, thus ensuring the security of your personal information. Please note that the operation paths may vary depending on your device model, operating system, and App version. In addition, we may adjust the operation paths from time to time to improve your user experience. Therefore, the operation paths described below are for your reference only. If you have any questions regarding the operation paths or the ways of exercising your rights, you can contact us in the manner disclosed in the "Contact Us" section of this Privacy Notice.
+
+(1) For devices running ColorOS 16.0 or later, you can go to "Settings - System & update - Recommended services - Phone Manager services" to turn off " Phone Manager services". Storage cleanup, Viruses & risks, and App security control (known as Block malicious activities, App Security Center, or Block suspicious app activities on certain models) will be unavailable.
+(2) You can tap the three-dot icon in the upper-right corner, go to "Settings - Privacy - Personalized services", and turn on "Personalized advertising" so content will be recommended to you based on your interests. If you turn it off, no personalized ads will be recommended to you.
+
+
+7. How This Privacy Notice Is Updated
+
+We reserve the right to update or modify this Privacy Notice from time to time. We will notify you of any material changes to this Privacy Notice in a manner we deem appropriate, and we will indicate the "Last updated" date at the top of this Privacy Notice.
+This Privacy Notice is subject to adjustments. If you continue to use the App after this Privacy Notice is updated, you will be deemed to have accepted the new Privacy Notice.
+
+8. Contact Us
+
+To learn more about how we protect your personal information, please refer to the Privacy Notice. 
+
+If you have any questions, complaints, or suggestions regarding this Privacy Notice or our privacy practices, you may contact us or our data protection officer as set forth below. We will verify your identity and respond within the stipulated time limit in accordance with local laws and regulations. This time limit may be extended when necessitated by factors such as the complexity and volume of individual requests and technical feasibility.
+
+If you have questions or concerns regarding our Privacy Notice or practices, please submit your request through our Data Subject Rights Platform (https://www.realme.com/global/privacy-feedback). 
+
+
+We have drawn up specific terms for certain jurisdictions in accordance with the laws applicable to your jurisdiction. You can find these specific terms in this Policy and in Privacy Notice for detailed information. In case of any conflict between the specific terms and the rest of this Policy, the specific terms will prevail. 
+
+9. Europe-Specific Terms (GDPR-Compliant Terms)
+
+The terms described below only apply to users located in Europe.
+
+9.1 Legal Bases for the Processing of Personal Data
+
+The processing of your personal data described in the "How We Use Your Personal Information" section relies on the following legal bases:
+1.Agree
+We may process your personal information with your consent. You have the right to refuse or withdraw your consent at any time. The withdrawal of your consent does not affect the lawfulness of our use of your personal data before your withdrawal. If you have given consent to our use of your personal information, we will use your information only for the purposes stated in the statement that you consented to. Please note that to the extent our processing is based on your consent, if you refuse or withdraw your consent, we may not be able to provide you with the service related thereto. Neither the initial refusal nor the withdrawal of consent will result in any negative consequences to you.
+
+2.Performance of or entering into a contract with you
+
+3.Compliance with legal obligations
+We may be obliged to process personal information in order to fulfill our legal obligations, such as when we are required to retain personal data for compliance with tax laws or for business purposes.
+
+4.Legitimate interests
+The processing of your personal information may also be necessary for the purposes of the legitimate interests we pursue. In particular, we may process your personal information for the following purposes:
+(1) conduct customer surveys to understand your user experience;
+(2) communicate with you and reply to questions or comments you submit to us, by any means;
+(3) ensure the functionality and safety of our Services;
+(4) enhance and develop our Services, including relevant security features, such as to improve the product usage experience, user-friendliness, operational performance, functions, and design;
+(5) pursue or defend against legal claims.
+
+We will process your personal information for the above purposes only after we fully evaluate and balance our interests against your privacy rights.
+
+9.2 How Your Personal Information Is Transferred Globally
+
+Should your personal data be transferred to jurisdictions outside Europe, we will ensure that appropriate safeguards are put in place. For example:
+(1) The recipient is located in a country that the European Commission has, subject to its Adequacy Decision, recognized as providing an adequate level of protection of personal information;
+(2) The recipient has signed a contract under the "Model Contractual Clauses" approved by the European Commission, obliging them to protect your personal data; or
+(3) In the absence of appropriate safeguards, we will ask for your express consent to cross-border transfers of your personal information or take any other measures that are recognized as providing the adequate level of protection for your personal information.
+To learn more about the safeguards we use in the transfer of personal information outside Europe, please contact us in the ways described in Privacy Notice. 
+
